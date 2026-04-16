@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://wufanxin.github.io/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://wufanxin.github.io/files/ordinals.pdf</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://wufanxin.github.io/files/dst.pdf</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://wufanxin.github.io/files/forcing.pdf</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://wufanxin.github.io/files/cardinal%20arithmetic.pdf</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://wufanxin.github.io/slides/skolem.pdf</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://wufanxin.github.io/slides/word%20problem.pdf</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://wufanxin.github.io/slides/fundamental%20group.pdf</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://wufanxin.github.io/slides/Hilbert's%20tenth.pdf</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://wufanxin.github.io/slides/amenable.pdf</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://wufanxin.github.io/slides/I3%20slides.pdf</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://wufanxin.github.io/slides/LE%20series.pdf</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://wufanxin.github.io/slides/Weak%20Mordell%20Theorem.pdf</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
